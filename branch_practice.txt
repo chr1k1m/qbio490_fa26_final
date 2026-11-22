@@ -1,2 +1,7 @@
 Hello.
 This is the original .txt file made on main.
+
+<edits made on branch1>
++++++++
++++++++
+<end of edits>
